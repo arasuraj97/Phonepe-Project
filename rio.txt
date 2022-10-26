@@ -1,3 +1,8 @@
+
+                              Day 2 Assignments:
+
+
+
 Document object:
 
 => The document object represents the whole html document as a tree of objects(HTML,HEAD,BODY and other html tags).
