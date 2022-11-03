@@ -8,7 +8,7 @@ var json={
 };
 for(var key in json.jsondata ){
     for(var key1 in json.jsondata[key]){
-        console.log([key]);
+        console.log(json.jsondata[key][key1]);
     }
 }
 
