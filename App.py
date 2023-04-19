@@ -40,7 +40,7 @@ Data_Map_User_Table= pd.read_csv(r'data/Data_Map_User_Table.csv')
 Indian_States= pd.read_csv(r'data/Longitude_Latitude_State_Table.csv')
 colT1,colT2 = st.columns([2,8])
 with colT2:
-    st.title(':blue[ PhonePe Pulse Data Analysis:signal_strength:]')
+    st.title(':blue[ PhonePe Pulse Data Analysis]')
 
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ INDIA MAP ANALYSIS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
